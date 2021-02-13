@@ -1,1 +1,1 @@
-# box-gravity
+# Box Class
